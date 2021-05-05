@@ -1,0 +1,20 @@
+#jum {
+  text-align: center;
+  padding: 90px;
+  background: url(../../assets/img/lake.jpg);
+  border-color: black;
+}
+
+#jum .jumbotron {
+  padding: 40px;
+  background-color: rgba(255,255,255,0.2);
+}
+
+.btn:not(:disabled):not(.disabled) {
+  background-color: rgba(255,255,255,0.1);
+}
+
+#nav {
+  background-color: rgb(128,128,128);
+}
+
